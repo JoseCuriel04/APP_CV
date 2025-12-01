@@ -12,15 +12,6 @@
 - **Botones funcionales** para visitar mis perfiles en **GitHub**, **LinkedIn** y mi **portafolio web**.
 - **Descarga de mi CV en PDF** directamente desde la app.
 
----
-
-## 📱 Capturas de Pantalla
-Inicio | Habilidades | Proyectos
-|--------|-------------|-----------|
-| ![Inicio](https://via.placeholder.com/300x600/0A192F/FFFFFF?text=CV+Inicio) | ![Habilidades](https://via.placeholder.com/300x600/0A192F/FFFFFF?text=Habilidades) | ![Proyectos](https://via.placeholder.com/300x600/0A192F/FFFFFF?text=Proyectos) |
-
----
-
 ## 🛠️ Tecnologías Utilizadas
 - **Lenguaje**: Dart  
 - **Framework**: Flutter  
@@ -120,6 +111,5 @@ Este proyecto está bajo la licencia **MIT**. Puedes usarlo y modificarlo librem
 
 ## 📬 Contacto
 **Email:** joselcl04@gmail.com  
-**Instagram:** @curiel_1004  
 
 ✨ ¡Gracias por visitar mi perfil! ✨
