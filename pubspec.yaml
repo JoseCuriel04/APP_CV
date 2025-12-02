@@ -41,6 +41,8 @@ dependencies:
   flutter_pdfview: ^1.4.3
   cached_network_image: ^3.4.1
   flutter_launcher_icons: ^0.14.4
+  flutter_markdown: ^0.6.11
+  webview_flutter: ^4.13.0
   open_file: ^3.5.10
 
 dev_dependencies:
@@ -67,4 +69,15 @@ flutter:
   assets:
     - assets/images/perfil.jpg
     - assets/pdf/cv_jose_luis_curiel.pdf
+    - assets/pdf/titulo_conalep.pdf
     - assets/habilidades/
+    - assets/pdf/Administrador_de_bases_de_datos.pdf
+    - assets/pdf/Computo_basico.pdf
+    - assets/pdf/Desarrollador_Front-end.pdf
+    - assets/pdf/Introduccion_a_la_programacion.pdf
+    - assets/pdf/Python_101_for_Data_Science.pdf
+    - assets/pdf/Fundamentos_de_Python_1.pdf
+    - assets/pdf/CCNAv7_Enterprise_Networking_Security_and_Automation.pdf
+    - assets/pdf/CCNAv7_Switching_Routing_and_Wireless_Essentials.pdf
+    - assets/pdf/CCNAv7_Introduction_to_Networks.pdf
+    - assets/pdf/Fortinet_Certified_Fundamentals_in_Cybersecurity.pdf

@@ -7,6 +7,7 @@ import 'package:cv_curiel/widgets/social_button.dart';
 import 'package:cv_curiel/utils/constants.dart';
 import 'package:cv_curiel/screens/education_screen.dart';
 import 'package:cv_curiel/utils/url_launcher.dart';
+import 'package:cv_curiel/screens/certifications_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -66,12 +67,15 @@ class HomeScreen extends StatelessWidget {
             ),
             const SizedBox(height: 30),
             // Secciones
+            
             const SectionTitle(title: 'Datos Profesionales'),
             const EducationSection(),
             const SectionTitle(title: 'Habilidades'),
             const SkillsSection(),
             const SectionTitle(title: 'Proyectos'),
             const ProjectsSection(),
+            const SectionTitle(title: 'Certificaciones y Logros'),
+            const CertificationsSection(),
             const SizedBox(height: 30),
             // Botón para descargar CV
             ElevatedButton.icon(
