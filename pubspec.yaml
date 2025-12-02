@@ -67,3 +67,4 @@ flutter:
   assets:
     - assets/images/perfil.jpg
     - assets/pdf/cv_jose_luis_curiel.pdf
+    - assets/habilidades/
